@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(187, 221, 210);
+}
+p{
+    color: blue;
+    font-size: 2rem;
+}
